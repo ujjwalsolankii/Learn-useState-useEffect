@@ -22,7 +22,8 @@ function App() {
   fetchDetails()
     
   }, [])
-  
+  //basic cred apis,authenticarion,massive ecco applicatin
+  //api development - routes, paths,friendly for frontend
 
   return (
     <div className="App">
@@ -37,3 +38,6 @@ function App() {
 }
 
 export default App;
+//authentication id pass google login
+//how can we have global varibles by which components talk and get data
+//backend is api
